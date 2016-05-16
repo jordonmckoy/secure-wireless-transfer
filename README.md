@@ -1,3 +1,6 @@
+Secure Wireless Transfer
+-------------
+
 A demo project that transfers files securely over a TLS connection from an Android application to a workstation running the Java client.
 
 The Android app and Java client use self-signed certificates when establishing the TLS connection. They can be found in the raw resource folder on the server and in the SWT_Client folder on the client. 
@@ -5,6 +8,7 @@ The Android app and Java client use self-signed certificates when establishing t
 The included keystores are:
 
 swt_ecv3/1 -> Public Key: EC P-256, Signature Algorithm: SHA256withECDSA
+
 swt_rsa -> Public Key: RSA 4096, Signature Algorithm: SHA256withRSA
 
 Instructions
@@ -34,4 +38,5 @@ No status updates available in the Android app
 
 
 http://www.syntacsstudios.com/
+
 http://www.jordonmckoy.ca/
