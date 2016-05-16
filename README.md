@@ -1,3 +1,6 @@
+![Alt text](/Screen_1.jpg?raw=true "Home Screen")
+![Alt text](/Screen_2.jpg?raw=true "File picker")
+
 Secure Wireless Transfer
 -------------
 
@@ -10,6 +13,9 @@ The included keystores are:
 swt_ecv3/1 -> Public Key: EC P-256, Signature Algorithm: SHA256withECDSA
 
 swt_rsa -> Public Key: RSA 4096, Signature Algorithm: SHA256withRSA
+
+
+Special thanks to [Jonas Kalderstam](https://github.com/spacecowboy/NoNonsense-FilePicker) for his Android file picker.
 
 Instructions
 -------------
