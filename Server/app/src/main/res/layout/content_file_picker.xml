@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.jamlabs.SWT.FilePickerActivity"
+    tools:showIn="@layout/activity_file_picker">
+
+    <!--<style android:name="FilePickerTheme" android:parent="NNF_BaseTheme">
+        &lt;!&ndash; Set these to match your theme &ndash;&gt;
+        <item android:name="colorPrimary">@color/primary</item>
+        <item android:name="colorPrimaryDark">@color/primary_dark</item>
+        <item android:name="colorAccent">@color/accent</item>
+
+        &lt;!&ndash; Need to set this also to style create folder dialog &ndash;&gt;
+        <item android:name="alertDialogTheme">@style/FilePickerAlertDialogTheme</item>
+
+        &lt;!&ndash; If you want to set a specific toolbar theme, do it here &ndash;&gt;
+        &lt;!&ndash; <item name="nnf_toolbarTheme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item> &ndash;&gt;
+    </style>
+
+    <style android:name="FilePickerAlertDialogTheme" android:parent="Theme.AppCompat.Dialog.Alert">
+        <item android:name="colorPrimary">@color/primary</item>
+        <item android:name="colorPrimaryDark">@color/primary_dark</item>
+        <item android:name="colorAccent">@color/accent</item>
+    </style>-->
+
+</RelativeLayout>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SWT</string>
+    <string name="title_activity_server">ServerActivity</string>
+    <string name="title_activity_file_picker">FilePickerActivity</string>
+</resources>
